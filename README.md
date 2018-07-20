@@ -1,5 +1,8 @@
 Arcade Game
 ===============================
+Run:
+
+You can find this game at https://amsnow92.github.io/udacity-arcade-game/
 
 Instructions:
 
